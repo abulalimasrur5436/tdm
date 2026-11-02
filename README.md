@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abulalimasrur5436/tdm/main/assets/icon.ico" width="96" height="96" alt="TurboDownloader Logo" />
+  <img src="https://raw.githubusercontent.com/abulalimasrur5436/tdm/main/assets/icon.ico" width="96" height="96" alt="Turbo Download Manager Logo" />
 </p>
 
-<h1 align="center">⚡ TurboDownloader (TDM)</h1>
+<h1 align="center">⚡ Turbo Download Manager (TDM)</h1>
 
 <p align="center">
   <strong>Next-Generation High-Performance Download Manager for Windows</strong><br>
@@ -21,9 +21,9 @@
 
 ## 🌟 Overview
 
-**TurboDownloader (TDM)** is an open-source, ultra-fast, and modern download accelerator designed to replace legacy, trial-restricted software like Internet Download Manager (IDM). 
+**Turbo Download Manager (TDM)** is an open-source, ultra-fast, and modern download accelerator designed to replace legacy, trial-restricted software like Internet Download Manager (IDM). 
 
-Combining an ultra-modern Fluent Dark/Light web interface with low-level multithreaded networking, **TurboDownloader** dynamically breaks files into up to **32 parallel segments**, utilizes dynamic segment stealing to saturate your bandwidth, seamlessly grabs video/audio streams from web browsers, and provides **1-click silent background updates**.
+Combining an ultra-modern Fluent Dark/Light web interface with low-level multithreaded networking, **Turbo Download Manager (TDM)** dynamically breaks files into up to **32 parallel segments**, utilizes dynamic segment stealing to saturate your bandwidth, seamlessly grabs video/audio streams from web browsers, and provides **1-click silent background updates**.
 
 ---
 
@@ -61,7 +61,7 @@ Combining an ultra-modern Fluent Dark/Light web interface with low-level multith
 
 ## 📊 Feature Comparison
 
-| Feature | TurboDownloader | Internet Download Manager (IDM) | Free Download Manager (FDM) | Browser Default |
+| Feature | Turbo Download Manager (TDM) | Internet Download Manager (IDM) | Free Download Manager (FDM) | Browser Default |
 | :--- | :---: | :---: | :---: | :---: |
 | **Price & License** | **100% Free & Open Source (MIT)** | Paid License (30-day trial nag) | Free (Closed source components) | Free |
 | **Max Connections** | **32 Parallel Streams** | 32 Parallel Streams | 10 Parallel Streams | 1 Stream |
@@ -106,11 +106,11 @@ python main.py
 
 ## 🌐 Browser Extension Setup
 
-TurboDownloader includes a high-performance Chrome/Edge Manifest V3 extension for automated link interception and video detection.
+**Turbo Download Manager (TDM)** includes a high-performance Chrome/Edge Manifest V3 extension for automated link interception and video detection.
 
 ```
 ┌────────────────────────┐         WebSocket / HTTP          ┌────────────────────────┐
-│  Chrome / Edge Browser │ ────────────────────────────────> │   TurboDownloader App  │
+│  Chrome / Edge Browser │ ────────────────────────────────> │      TDM App Engine    │
 │  (Video Sniffer Ext)   │ <──────────────────────────────── │   (Port: 48921)        │
 └────────────────────────┘          Auto-Grab Event          └────────────────────────┘
 ```
@@ -120,8 +120,8 @@ TurboDownloader includes a high-performance Chrome/Edge Manifest V3 extension fo
    - Chrome: `chrome://extensions/`
    - Edge: `edge://extensions/`
 2. Enable **"Developer mode"** (top right toggle).
-3. Click **"Load unpacked"** and select the `browser_extension` folder inside your TurboDownloader directory.
-4. Pin the **TurboDownloader** icon to your toolbar. Video capture buttons will now appear on video streaming sites automatically!
+3. Click **"Load unpacked"** and select the `browser_extension` folder inside your Turbo Download Manager directory.
+4. Pin the **Turbo Download Manager (TDM)** icon to your toolbar. Video capture buttons will now appear on video streaming sites automatically!
 
 ---
 
@@ -206,5 +206,5 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 <p align="center">
   Crafted with ❤️ by <a href="https://github.com/abulalimasrur5436"><strong>Abul Ali Masrur</strong></a> & Open-Source Contributors.<br>
-  <em>If you find TurboDownloader helpful, please give this repository a ⭐ on GitHub!</em>
+  <em>If you find Turbo Download Manager (TDM) helpful, please give this repository a ⭐ on GitHub!</em>
 </p>
