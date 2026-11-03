@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abulalimasrur5436/tdm/main/assets/icon.ico" width="96" height="96" alt="Turbo Download Manager Logo" />
+  <img src="assets/logo.png" width="96" height="96" alt="Turbo Download Manager Logo" />
 </p>
 
 <h1 align="center">⚡ Turbo Download Manager (TDM)</h1>
